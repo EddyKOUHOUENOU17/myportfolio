@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "title": "Eddy KOUHOUENOU Folio",
+        "description": "I'm a web developper specializing in front-end . My expertise lies in crafting scalable, secure, and dependable web applications using a range of frameworks and technologies.",
+        "keywords": "Eddy KOUHOUENOU, Eddy KOUHOUENOU, Eddy KOUHOUENOU, Eddy KOUHOUENOU folio, software engineer, front-end web developer, web developer, web development, software developer, software development, html, css, javascript, reactjs, nodejs, vuejs,laravel, porfolio, personal porfolio, personal website, web developer portfolio, web developer website, web developer porfolio website, web developer personal website, web developer personal porfolio"
+    },
+
+    "name": "Eddy KOUHOUENOU",
+    "role": "Web developper",
+    "description": "I'm a web developper specializing in front-end web development. My expertise lies in crafting scalable, secure, and dependable web applications using a range of frameworks and technologies. I thrive on tackling intricate challenges, constantly expanding my skill set, and delivering top-notch code that adheres to the highest standards and best practices in the industry.",
+    "index_image": "/",
+
+    "about_description": "Hello! I'm Eddy KOUHOUENOU, currently pursuing computer science at EPITECH BENIN. My enthusiasm lies in software engineering, driving me to continuously explore new technologies and enhance my skill set. Here are some of the technologies I've been working with recently:",
+    "about_image": "/",
+    "education": [
+        {
+            "image": "/",
+            "organization": "UATM GASA FORMATION",
+            "subtitle": "Bachelor in Computer Networks and telecommunications",
+            "date": "2024 - Finished"
+        },
+        {
+            "image": "./public/img/epitechbénin.jpg",
+            "organization": "African Education Innovation Group",
+            "School": "Epitech Bénin",
+            "subtitle": " Web Dev Front-end",
+            "date": "2024- Present"
+        }
+    ],
+    "experience": [
+        {
+            "image": "/img/ccci.webp",
+            "organization": "African Education Innovation Group",
+            "School": "Epitech Bénin",
+            "subtitle" : "Certification in Web developpment",
+            "date": "2024 - Present"
+        },
+        {
+            "image": "/img/spvttc.webp",
+            "organization": "Empire Group",
+            "subtitle": "Network technician",
+            "date": "2023"
+        }
+    ],
+    "social_links": {
+        "linkedin": "https://www.linkedin.com/in/eddyrenaudkouhouenou/",
+        "github": "https://www.github.com/eddy.kouhouenou17/"
+        
+       
+    },
+    "email": "eddy.kouhouenou@epitech.eu",
+
+    "certificates": [
+        {
+            "title": "License in Networking",
+            "image": "/img/cyber_cert.jpg"
+        },
+        {
+            "title": "DTI an LTP/PN",
+            "image": "/img/python_cert.jpg"
+        },
+        
+        {
+            "title": "Front-End Developer  Certificate from Epitech Bénin",
+            "image": "/img/fe_cert.webp"
+        }
+        
+    ],
+
+    "skills": {
+        "proglang": ["C", "C++", "JavaScript"],
+        "libfw": ["React", "NodeJS", "Electron", "Tailwind", "Vue", "Nuxt"],
+        "toolplat":  ["Git", "Github", "Shell", "Vercel", "Postman","WOrdPress"]
+    },
+
+    "projects": [
+        {
+            "title": "Myshop",
+            "description": "A E-Commerce web site app.",
+            "skills": ["Html", "TailwindCSS", "CSS", "PHP", "TypeScript"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-DEV-114-COT-1-2-myshop-scoress.agbalo.git"
+        },
+        
+        {
+            "title": "Freeads",
+            "description": "A simple online chatting web application where you can create chat rooms and have a fun conversation with a group of people.",
+            "skills": ["Html", "TailwindCss", "CSS"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-DEV-120-COT-1-2-freeads-karim.bello-yessoufou.git"
+        },
+        {
+            "title": "PostIt",
+            "description": "A web app who is used to create post its.",
+            "skills": ["VueJs", "Html", "CSS", "TailwindCss"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-DEV-121-COT-1-2-postit-eddy.kouhouenou.git"
+        },
+        {
+            "title": "Trello Clone",
+            "description": "A simple trello web app clone.",
+            "skills": ["VueJs", "Wordpress", "Mysql"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-DEV-121-COT-1-2-twp-eddy.kouhouenou.git"
+        },
+        {
+            "title": "YOWL",
+            "description": "A web app who is used to comment all in the internet",
+            "skills": ["Html", "TailwindCsss", "PHP"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-DEV-160-COT-1-2-yowl-eddy.kouhouenou.git"
+        },
+        {
+            "title": "WOrdpress",
+            "description": "A class project",
+            "skills": ["Html", "TailwindCSS", "PHP"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-WEB-210-COT-2-2-wordpress-loic.bakpe.git"
+        },
+        {
+            "title": "Reddit Clone",
+            "description": "A reddit web app clone.",
+            "skills": ["Html", "CSS", "PHP"],
+            "github": "https://github.com/EpitechCodingAcademyPromo2024/C-WEB-220-COT-2-2-reddit-eddy.kouhouenou.git"
+        }
+    ]
+}
